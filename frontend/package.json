@@ -48,5 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.3.0"
   }
 }
